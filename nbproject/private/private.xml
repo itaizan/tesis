@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/app/CSGPAP_App.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/importedpackages/jist-swans-1.0.6/src/driver/heartbeat.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/importedpackages/jist-swans-1.0.6/src/jist/swans/app/AppHeartbeat.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/stack/std/routing/heartbeat/HeartbeatProtocol.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/stack/std/routing/heartbeat/MessageHeartbeat.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/stack/std/routing/heartbeat/RoutingTable.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/models/energy/energyconsumptionmodels/EnergyManagement.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/models/energy/batteries/Battery.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/models/energy/energyconsumptionmodels/EnergyConsumptionModel.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/models/energy/energyconsumptionmodels/EnergyConsumptionModelAccessible.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/models/energy/energyconsumptionmodels/EnergyConsumptionModelImpl.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/routing/CSGPAP_Routing.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/app/MessageDataValue.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/app/MessageQuery.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/driver/Cluster.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/driver/SequenceGenerator.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/routing/CSGPWrapperMessage.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/routing/CSGP_Routing.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/routing/Csgp.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/routing/Sgp.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/CSGPAPColorProfile/CSGPAPColorPair.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/CSGPAPColorProfile/CSGPAPColorProfile.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/users/java/sidnet/stack/users/csgp_adaptivepath/driver/CSGPAP_Driver.java</file>
+            <file>file:/D:/file%20ita/materi%20kuliah%20S2/Rencana%20Tesis/SIDnet-SWANS/src/main/java/sidnet/core/misc/Region.java</file>
+        </group>
+    </open-files>
+</project-private>
